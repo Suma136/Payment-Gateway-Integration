@@ -1,0 +1,143 @@
+body {
+    text-align: center;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+  }
+  
+  /* navigation bar */
+  .navbar-brand {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  .nav-item {
+    padding: 0 5px;
+    margin: 0.5rem;
+    color:white;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight:bold;
+    color:white
+  }
+  
+  
+  #donate {
+    color:white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+  }
+  
+  nav {
+    margin-bottom: 0px;
+  }
+  
+  /* Title Section */
+  
+  .centered {
+    color:black;
+    position: absolute;
+    top: 75%;
+    transform: translate(0%, -50%);
+    padding-left: 30px;
+    width: 40%;
+    text-align: left;
+  }
+  
+  .big-heading {
+    font-family:  sans-serif;
+    font-size: 2.3rem;
+    line-height: 1.5;
+    font-weight: 900;
+  }
+  
+  .btn {
+    margin-top: 2%;
+  }
+  
+  .main-img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  /* About us */
+  #AboutArea {
+    padding: 5% 15%;
+    background-color: #fff;
+    position: relative;
+  }
+  
+  .about_img {
+    height: 80%;
+    width: 80%;
+    margin-left: 10%;
+  }
+  
+  .about_heading {
+    font-family:  sans-serif;
+    color:  rgb(0,0,0);
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-bottom: 5%;
+  }
+  
+  .about_content {
+    text-align: left;
+  }
+  
+  /* World Map */
+  #wmap {
+    background-color:  #4682b4;
+    color: #fff;
+    padding:3%;
+  }
+  
+  /* Count */
+  #count {
+    background-color: #fff;
+    padding: 10% 4%;
+  }
+  
+  .count-text {
+    color: #4682b4;
+    font-family:  sans-serif;
+    font-size: 2.3rem;
+    line-height: 1.5;
+  }
+  
+  .count-desc {
+    font-size: 1rem;
+    font-weight: 700;
+    color:  #4682b4;
+  }
+  
+  i {
+      color:  #4682b4;
+  }
+  
+  /* Testimonials */
+  #testimonials {
+    background-color:  #4682b4;
+    color: #fff;
+  }
+  
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  .testimonial-text {
+    font-size: 1.8rem;
+    line-height: 1.5;
+  }
+  
+  .testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
