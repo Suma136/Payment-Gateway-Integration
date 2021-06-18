@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+	}
+
+			h1, h2, h3, h4, h5, h6 {
+			  font-family: sans-serif;
+			}
+
+			/* navigation bar */
+
+			.container-fluid {
+			  padding:40px;
+			}
+
+			.navbar-brand {
+			  font-family:  sans-serif;
+			  font-weight: bold;
+			  font-size: 2rem;
+			}
+
+			.nav-item {
+			  padding: 0 5px;
+			  margin:0.5rem;
+			}
+
+			.nav-link {
+			  font-size: 1.2rem;
+			  font-family: sans-serif;
+			}
+
+			
+			nav{
+				margin-bottom: 0px;
+			}
+
+			
+			
+			/* Donation Page */
+			.donate {
+			border-style: solid;
+            border-width: thin;
+            background-color: aliceblue;
+			
+			}
+
+			.donation_amount{
+			margin: 4% 0;
+			}
+
+			.donation_submit{
+			margin: 5% 0;
+			}
